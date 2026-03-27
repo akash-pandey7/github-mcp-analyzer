@@ -1,0 +1,6 @@
+google-adk
+google-genai
+mcp[cli]
+requests
+fastapi
+uvicorn
